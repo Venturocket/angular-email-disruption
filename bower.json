@@ -1,0 +1,17 @@
+{
+    "name": "angular-email-disruption",
+    "version": "0.0.1",
+    "main": "./build/angular-email-disruption.min.js",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "components"
+    ],
+    "dependencies": {
+        "angular": "~1.2.7"
+    },
+    "devDependencies": {
+        "angular-mocks": "*",
+		"angular-scenario": "*"
+    }
+}
